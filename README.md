@@ -20,7 +20,7 @@ Tailwind CSS: For utility-first, responsive, and modern styling.
 JavaScript: Core logic and functionality.
 
 ## 🚀 Demo
-Check out the live app here:[https://vercel.com/vadivarasans-projects/joke-app]
+Check out the live app here:[https://joke-app-ten-eta.vercel.app/]
 
 ## 📥 How to Run Locally
 Clone this repository and install dependencies:
