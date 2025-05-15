@@ -23,9 +23,4 @@ JavaScript: Core logic and functionality.
 Check out the live app here:[https://joke-app-ten-eta.vercel.app/]
 
 ## 📥 How to Run Locally
-Clone this repository and install dependencies:
-
-## bash
-Copy
-Edit
-git clone 
+Clone this repository and install dependencies:https://github.com/vadivarasan-45/joke-app.git 
